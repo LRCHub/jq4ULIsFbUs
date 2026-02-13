@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "treasures",
+  "base_artist": "Nash Music Library",
+  "createdAt": "2026-02-13T04:07:24.237527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Treasures",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/01_Treasures_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Treasures",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/02_Treasures_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Three Treasures",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/03_Three_Treasures_Therion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tall Treasures",
+      "artist": "America",
+      "has_synced": true,
+      "path": "select/04_Tall_Treasures_America.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tall Treasures",
+      "artist": "America",
+      "has_synced": true,
+      "path": "select/05_Tall_Treasures_America.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Inside a Room Full of Treasures a Black Pygmy Horse's Head Pops Up Like a Periscope",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/06_Inside_a_Room_Full_of_Treasures_a_Black_Pygmy_Horse's_Head_Pops_Up_Like_a_Perisc_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snow Purple Treasures",
+      "artist": "Sweet Trip",
+      "has_synced": true,
+      "path": "select/07_Snow_Purple_Treasures_Sweet_Trip.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Buried Treasures",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/08_Buried_Treasures_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heaven Holds All My Treasures",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/09_Heaven_Holds_All_My_Treasures_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Treasures",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/10_Treasures_SiM.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Ex Doesn't Mark Treasures",
+      "artist": "Fucking Werewolf Asso",
+      "has_synced": true,
+      "path": "select/11_Your_Ex_Doesn't_Mark_Treasures_Fucking_Werewolf_Asso.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Treasures of Heaven",
+      "artist": "John Elefante",
+      "has_synced": false,
+      "path": "select/12_Treasures_of_Heaven_John_Elefante.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Treasures",
+      "artist": "The Rocket Summer",
+      "has_synced": true,
+      "path": "select/13_Treasures_The_Rocket_Summer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "treasures",
+      "artist": "Nash Music Library",
+      "has_synced": false,
+      "path": "select/pl_01_treasures_Nash_Music_Library.txt"
+    }
+  ]
+}
